@@ -66,6 +66,8 @@ body{
 			flex-direction: column;
 		}
 		.b1{
-			width: 80%;
+			width: 72%;
 		}
+		.main{
+			word-spacing: 15px
 	}
